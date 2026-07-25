@@ -1,5 +1,6 @@
-
 # Food Adulteration Risk Detection
+
+![Food Adulteration Risk Banner](https://file.garden/amSWsca8eBs6OyGG/banner.png)
 
 A Machine Learning-based system that predicts the risk of food adulteration from given data, helping identify potentially unsafe or tampered food products.
 
